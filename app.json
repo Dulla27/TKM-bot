@@ -67,7 +67,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID, the code you received after pairing code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibU9DVkUwWS9Zb0FIYndtcjhaV1B4cXZYQ0VXRklBVWMrRjV5b21OdkpGND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiamRXcUNjS2FJbGl6ait6YlBzODJIeVg0UWo1UWxUUklrL1kxT2lZVHlRcz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJHQzNWdkdOc1V5YjZzUTlXTmlCUEhuT29tQ2xVSmlEelpQVzltc2VpejBVPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJWRFJEN25Mcjd4V21WWW43TXZuVUVZVDAybml0UUk5c3l6QTlnbnlldkM4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik9JdDVjUmVUVXgwNHp0d2xpaTViU1p1Y3R3OHFBMnBYTDNJcGtZNEVHRms9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ii9aNkR0MUJTTzkwd0RhcUV0R0E5ZnhhTkx0S0hSczVNdGNyVkx4aWVCM3M9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicUNBTjF4emlualNLR0MwS0pscHdONjNvNVhtZkRITGxCYmdMYnVjS1lFZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ1I0YnVaWEJ2dnBSNlBHb0sxcmtnM3Y5L1pJWUlSMmRnR2Q2Mk56MHFIQT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJyaGs0ZTdmdjljWVI3Zmx1VXFsZ0xjeGNXVUlrYVVlZU8zSzdRLzRiL1NORmlaajNWQmRKMlBiY1EvVzhSalgzek9PdnA2ZS9LdHZQRVpDTDR5c2pnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTQzLCJhZHZTZWNyZXRLZXkiOiJ3MnR1LzBLV3NFT1BGQkh0eTJ6MXcwU1ZzdUZaK2RjZ0M3d0RuY0ExNStVPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJITHp0bG42U1FkUzFxV3VDWnNnQmpnIiwicGhvbmVJZCI6ImU2MzQ3YzM3LWNiMWYtNGIwZS05NDAyLWJiYWVhYTdiZmU4MSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIza1N2REhsendxRDRzSnVsWUZQV3NGZmhqMWc9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSVh3di9YQkFmTTR6a1FXV1RadHZtUmJuUktnPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjFTOVNaWTIzIiwibWUiOnsiaWQiOiIyNTQ3OTY3MDAzNDU6MTJAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiUGhpbCA0NyJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDSjNUNjJvUTdmcWd0UVlZQ1NBQUtBQT0iLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiZzMwVjNmeEpjTmlkRkMxY0l5Zk9xYmJqcFdPL0hYQmNqeFAxdmg5cDkzVT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiUVhJdklFYXkrS1FhQzY3N2VKZDUvSDVOWVNTY3Buak5ZejJ3S0tDOCtzVVhmOXNIOXE5UytscGlObjA5QlF2ZnA0YnI2emhaV1lES1ZMS2orTy9IQkE9PSIsImRldmljZVNpZ25hdHVyZSI6ImV5U3ZpMGhOUFNBVWNZaGxrZ0x5SS9wRmdPSjJJTnJNZ2hsSUxEeFlqdUNXQVRteE04b25tR3lDZ2NWcDJPaTQ0L1ZtTVVxenBaVW42K2ZLOFBrdGdnPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU0Nzk2NzAwMzQ1OjEyQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQllOOUZkMzhTWERZblJRdFhDTW56cW0yNDZWanZ4MXdYSThUOWI0ZmFmZDEifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjIzMDE4MTd9",
       "required":true
       
     },
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Cod3Uchiha"
+    "value": "Dulla"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "263775571820,263785028126"
+    "value": "254796700345,254756450397"
   },
     "WARN_COUNT":
   {
@@ -99,12 +99,12 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",  
+    "value":"2",  
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
+    "value": "yes",
     "required": false
   }
   },
